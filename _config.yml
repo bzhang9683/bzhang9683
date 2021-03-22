@@ -15,14 +15,14 @@ timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Beichen Zhang                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 张北辰   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Graduate Research Assistant at the University of Nebraska-Lincoln, 
+  studying climate change impacts (especially drought and natural disasters)
+  by using GIS, RS, and machine learning.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bzhang9683.github.io'
@@ -45,7 +45,7 @@ social:
     # The first element serves as the copyright owner's link
     #- https://www.linkedin.com/in/beichen-zhang-90a33b1b7 #linkedin
     #- https://github.com/bzhang9683       # change to your github homepage
-    - https://www.instagram.com/beichen_zhang #instagram homepage
+    #- https://www.instagram.com/beichen_zhang #instagram homepage
     #- https://twitter.com/beichen14      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
